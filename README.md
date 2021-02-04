@@ -1,0 +1,2 @@
+# togglstop
+NORTHPOINT toggl stop
